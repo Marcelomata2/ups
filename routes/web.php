@@ -21,6 +21,8 @@ Route::get('/','HomeController@viewIndex');
 
 
 
+
+
 /*Route::get("/hellolaravel", function(){
     return view("hello");
 });*/
